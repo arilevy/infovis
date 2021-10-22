@@ -1,0 +1,13 @@
+Visual summation
+Horizon graphs
+Amazon's Mechanical Turk
+Brushing-and-linkning
+Parallel Coordinates
+Choropleth map
+Graduated symbol map
+Reingold-Tilford algorithm
+Adjacency diagrams
+Enclosure diagrams
+Circle-packing layouts
+Force-directed layouts
+Arc diagram
